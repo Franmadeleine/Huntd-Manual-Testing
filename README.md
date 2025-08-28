@@ -41,9 +41,9 @@ It includes test planning, execution, bug reporting in Jira, and test case organ
 
 | Tool         | Purpose                                  |
 |--------------|-------------------------------------------|
-| Jira         | Task, bug, and documentation tracking     |
-| TestRail     | Test case creation and execution          |
-| Google Docs  | Test plan, RTM, and summary reports       |
+| Jira         | Task, bug, and documentation tracking     | https://franmadeleine.atlassian.net/jira/software/projects/HUNTD/boards/34/backlog?atlOrigin=eyJpIjoiYzIwNzVjZDc1Yjk5NGUxMTliZjA3MzMwNTQ2ZGY4ODUiLCJwIjoiaiJ9
+| TestRail     | Test case creation and execution          | 
+| Google Docs  | Test plan, RTM, and summary reports       | https://docs.google.com/spreadsheets/d/1ZuFT5vtF8lRMur3lP2zr6My1-xWDAx8gMGdgHF82lYI/edit?usp=sharing
 | Google Meet  | Daily sync with mentors/team              |
 
 ## 📂 Project Artifacts
