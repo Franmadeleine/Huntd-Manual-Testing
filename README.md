@@ -6,8 +6,6 @@ It includes test planning, execution, bug reporting in Jira, and test case organ
 ## 📌 Project Overview
 
 - **Platform**: Huntd (Web + Mobile MVP)
-- **Estimated Duration**: 40 hours
-- **Execution Time**: 6 days
 - **Tester**: Francesca Madeleine Moreno
 - **Mentorship**: Gilcimara, Rundã, Ronney
 
